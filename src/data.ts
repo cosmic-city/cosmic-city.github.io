@@ -238,6 +238,12 @@ const data: DataTypes[] = [
     image: "/image/jetpack-joyride.png",
     embed: "https://ovoclassic.github.io/s5/jetpack-joyride/",
   },
+  {
+    id: "karlsont",
+    title: "Karlson't",
+    image: "/image/jetpack-joyride.png",
+    embed: "https://jankiestgame.netlify.app/",
+  },
 ];
 
 export { data, type DataTypes };
