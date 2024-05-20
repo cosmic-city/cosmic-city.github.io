@@ -41,6 +41,7 @@ export const metadata = [
   { path: "game/swingo", title: "Swingo | Cosmic City" },
   { path: "game/tag", title: "Tag | Cosmic City" },
   { path: "game/jetpack-joyride", title: "Jetpack Joyride | Cosmic City" },
+  { path: "game/karlsont", title: "Karlson't | Cosmic City" },
   { path: "/", title: "Cosmic City" },
   { path: "games", title: "Cosmic City | Games" },
   { path: "socials", title: "Cosmic City | Socials" },
