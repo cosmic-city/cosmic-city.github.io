@@ -241,7 +241,7 @@ const data: DataTypes[] = [
   {
     id: "karlsont",
     title: "Karlson't",
-    image: "/image/jetpack-joyride.png",
+    image: "/image/karlson.png",
     embed: "https://jankiestgame.netlify.app/",
   },
 ];
