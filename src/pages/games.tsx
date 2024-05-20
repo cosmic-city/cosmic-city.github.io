@@ -28,7 +28,7 @@ function Games() {
       <div className="flex flex-col gap-2 justify-center items-center">  <Randomizer />
         <input
           type="text"
-          className="bg-[#111] rounded-xl text-sm outline-none px-6 py-2 my-2 transition-duration-75 border-b-[1.75px] border-b-black focus:border-b-[#83c9e5]"
+          className="bg-[#111] rounded-xl text-sm outline-none px-6 py-2 my-2 transition duration-75 border-b-[1.75px] border-b-black focus:border-b-[#83c9e5]"
           placeholder="Search games.."
           onChange={(e) => setQuery(e.target.value.toLowerCase())}
           
