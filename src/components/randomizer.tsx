@@ -15,7 +15,6 @@ function Randomizer() {
         This UI is very similar to something...{" "}
         <Emoji src="/image/emojis/sus.png" />
       </>,
-      <>roblox &lt; minecraft & fortnite</>,
       <>
         never gona give u up <Emoji src="/image/emojis/rickroll.gif" />
       </>,
