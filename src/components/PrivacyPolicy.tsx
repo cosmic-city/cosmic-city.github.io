@@ -9,4 +9,4 @@ function PrivacyPolicy() {
 </div>
 }
 
-export default PrivacyPolicy
+export default PrivacyPolicy;
