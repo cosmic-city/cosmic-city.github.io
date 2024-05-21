@@ -7,6 +7,7 @@ import Button from "../components/button";
 
 function Games() {
   const [results, setResults] = useState<DataTypes[]>(data);
+  const [query, setQuery] = useState<string>("");
 
   useEffect(() => {
     if (query.length > 0) {
