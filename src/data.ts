@@ -244,6 +244,12 @@ const data: DataTypes[] = [
     image: "/image/karlson.png",
     embed: "https://jankiestgame.netlify.app/",
   },
+  {
+    id: "getaway-shootout",
+    title: "Getaway Shootout",
+    image: "/image/getaway-shootout.png",
+    embed: "https://cdn-7hy.pages.dev/getaway-shootout/",
+  },
 ];
 
 export { data, type DataTypes };
