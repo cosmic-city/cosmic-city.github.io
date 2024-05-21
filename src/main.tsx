@@ -7,6 +7,11 @@ import { metadata } from "./metadata";
 import routes from "~react-pages";
 import { ring } from "ldrs";
 import "./index.css";
+import Hotjar from "@hotjar/browser";
+const siteId = 4989916;
+const hotjarVersion = 6;
+
+Hotjar.init(siteId, hotjarVersion);
 
 ring.register();
 

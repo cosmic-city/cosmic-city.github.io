@@ -1,11 +1,5 @@
 import { Link } from "react-router-dom";
 import Button from "../components/button";
-import Hotjar from '@hotjar/browser';
-
-const siteId = 4989916;
-const hotjarVersion = 6;
-
-Hotjar.init(siteId, hotjarVersion);
 
 function Home() {
   return (

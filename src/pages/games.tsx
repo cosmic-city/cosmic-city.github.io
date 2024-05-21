@@ -8,8 +8,6 @@ import Button from "../components/button";
 function Games() {
   const [results, setResults] = useState<DataTypes[]>(data);
 
-Hotjar.init(siteId, hotjarVersion);
-
   useEffect(() => {
     if (query.length > 0) {
       const found = data.filter((game) => {
