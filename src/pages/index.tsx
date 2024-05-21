@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import Button from "../components/button";
+import PrivacyPolicy from "../components/PrivacyPolicy"
 
 function Home() {
   return (
@@ -13,6 +14,7 @@ function Home() {
           Start playing!
         </Button>
       </Link>
+      <PrivacyPolicy/>
     </>
   );
 }
