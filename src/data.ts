@@ -295,7 +295,7 @@ const data: DataTypes[] = [
   {
     id: "tiny-fishing",
     title: "Tiny Fishing",
-    image: "https://play-lh.googleusercontent.com/WRlGQXa9Pav7YZPW-P5X8PAga0lF2T1BAzmasxB9qV_1_om5DgmMbxOFo2SK8ZN5K5k=s240",
+    image: "image/tiny-fishing.png",
     embed: "https://webglmath.github.io/tiny-fishing/",
   },
 ];
