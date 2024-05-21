@@ -4,14 +4,9 @@ import { data, DataTypes } from "../data";
 import Card from "../components/card";
 import { Link } from "react-router-dom";
 import Button from "../components/button"; 
-import Hotjar from '@hotjar/browser';
-
 
 function Games() {
   const [results, setResults] = useState<DataTypes[]>(data);
-  const [query, setQuery] = useState<string>("");
-  const siteId = 4989916;
-const hotjarVersion = 6;
 
 Hotjar.init(siteId, hotjarVersion);
 
