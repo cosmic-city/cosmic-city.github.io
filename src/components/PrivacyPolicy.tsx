@@ -2,7 +2,7 @@ import { button } from "../components/button"
 
 
 function PrivacyPolicy() { 
-<div className="h-15 w-10">
+<div className="h-15 w-10 absolute">
     <p>your gay</p>
 
 <Button/>
