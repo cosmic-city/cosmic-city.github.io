@@ -24,6 +24,9 @@ function Randomizer() {
         <Emoji src="/image/emojis/mewing.gif" />
       </>,
       <>alt+tab to switch windows</>,
+      <>For the one kid in spain that uses this
+      <Emoji src="/image/emojis/dignified-winnie.png" />
+      </>,
       <>
         ik where u live... <Emoji src="/image/emojis/duo.png" />
       </>,
