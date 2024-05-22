@@ -256,60 +256,6 @@ const data: DataTypes[] = [
     image: "/image/getaway-shootout.png",
     embed: "https://cdn-7hy.pages.dev/getaway-shootout/",
   },
-  {
-    id: "fruit-ninja",
-    title: "Fruit Ninja",
-    image: "https://play-lh.googleusercontent.com/iRlGmvtJ524J-gAGdJJchMv-MH-9AuG80TAx8Rv8q3lObiI7kLVZrEvjVOM-yw3BBH4=s240",
-    embed: "https://nate-games.github.io/assets/games/fruit-ninja",
-  },
-  {
-    id: "poor-eddie",
-    title: "Poor Eddie",
-    image: "https://play-lh.googleusercontent.com/62odROJdMlk19ni_4zBrfftYBRtdFyoyQ5thp99NKcOH7dwwgbEEj2IN2ha0pU5rgQ=s240",
-    embed: "https://nate-games.github.io/assets/games/poor-eddie",
-  },
-  {
-    id: "stack",
-    title: "Stack",
-    image: "https://play-lh.googleusercontent.com/WRlGQXa9Pav7YZPW-P5X8PAga0lF2T1BAzmasxB9qV_1_om5DgmMbxOFo2SK8ZN5K5k=s240",
-    embed: "https://webglmath.github.io/rainbow-stacker/",
-  },
-  {
-    id: "crossy-road",
-    title: "Crossy Road",
-    image: "https://play-lh.googleusercontent.com/2yH_JCxn7D9FttXZViPhmvIEDfRhio5qdLdWJLxcIfh8PjIkVeBgt_Gj7q21dIRp97g=s240",
-    embed: "https://webglmath.github.io/crossy-road/",
-  },
-  {
-    id: "stair-race-3d",
-    title: "Stair Race 3D",
-    image: "https://play-lh.googleusercontent.com/Ix0qnUh8vx08heJtp6lUfXA8ah9DVhhOfia-XrZu--RZCgFhPLtd0YU7LEogN81J6ho=s240",
-    embed: "https://nate-games.github.io/assets/games/stair-race-3d/",
-  },
-  {
-    id: "lazy-jump-3d",
-    title: "Lazy Race 3D",
-    image: "/image/lazy-jump-3d.png",
-    embed: "https://nate-games.github.io/assets/games/lazy-jump-3d/",
-  },
-  {
-    id: "tunnel-rush",
-    title: "Tunnel Rush",
-    image: "image/tunnel-rush.png",
-    embed: "https://webglmath.github.io/tunnel-rush/",
-  },
-  {
-    id: "tiny-fishing",
-    title: "Tiny Fishing",
-    image: "image/tiny-fishing.png",
-    embed: "https://webglmath.github.io/tiny-fishing/",
-  },
-  {
-    id: "ducklings-io",
-    title: "Ducklings.io",
-    image: "https://play-lh.googleusercontent.com/bAPhkkHwbkODYsZ1sn9BZybFL6uNWWFOskvXCdK86HiLsqBHWyO8Nt0NephFBY1lQkV9=s240",
-    embed: "https://www.coolmathgames.com/sites/default/files/public_games/49923/#451937697",
-  },
 ];
 
 export { data, type DataTypes };
