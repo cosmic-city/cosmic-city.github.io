@@ -2,7 +2,5 @@
 
 
 # Privacy Policy
-We track people on out website using <a href="https://www.hotjar.com/">
-<p>Hotjar</p>
-</a>
-we use this to measuremost popular games, what people do, ETC
+We track people on out website using hotjar
+we use this to measure most popular games, what people do, ETC
