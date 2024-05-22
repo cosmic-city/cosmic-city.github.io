@@ -11,6 +11,7 @@ function Randomizer() {
       <>your cooked.</>,
       <>Is that a teacher behind you?</>,
       <>Erm, What the sigma?</>,
+      <>Hi Luca and Izzy</>,
       <>
         This UI is very similar to something...{" "}
         <Emoji src="/image/emojis/sus.png" />
