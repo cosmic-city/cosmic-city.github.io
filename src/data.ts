@@ -110,6 +110,12 @@ const data: DataTypes[] = [
     embed: "https://webglmath.github.io/rainbow-stacker/",
   },
   {
+    id: "blumgi-rocket",
+    title: "Blumgi Rocket",
+    image: "image/blumgi-rocket.png",
+    embed: "https://webglmath.github.io/blumgi-rocket/",
+  },
+  {
     id: "tunnel-rush",
     title: "Tunnel Rush",
     image: "image/tunnel-rush.png",
