@@ -46,6 +46,13 @@ function Games() {
           })}
         </div>
       </div>
+      <div>
+      <Link to="https://discord.gg/kCsExjvS">
+        <Button look="brand" className="mt-2">
+          Join The discord!
+        </Button>
+      </Link>
+      </div>
     </>
   );
 }
