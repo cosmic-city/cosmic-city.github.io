@@ -3,6 +3,8 @@ import { useParams } from "react-router-dom";
 import { DataTypes } from "../../types.ts";
 import { data } from "../../data.ts";
 import All from "../[...all].tsx";
+import Button from "../../components/button.tsx";
+import { Link } from "react-router-dom";
 
 function Game() {
   const { id } = useParams();
@@ -64,6 +66,11 @@ function Game() {
               </button>
             </div>
           </div>
+          <Link to="/games">
+          <Button look="brand" className="mt-2">
+            Report a Bug
+          </Button>
+          </Link>
         </>
       ) : (
         <All />
