@@ -66,7 +66,7 @@ function Game() {
               </button>
             </div>
           </div>
-          <Link to="/games">
+          <Link to="https://github.com/cosmic-city/cosmic-city.github.io/issues">
           <Button look="brand" className="mt-2">
             Report a Bug
           </Button>
