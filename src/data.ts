@@ -94,7 +94,7 @@ const data: DataTypes[] = [
   {
     id: "stair-race-3d",
     title: "Stair Race 3D",
-    image: "/image/stair-rave-3d.png",
+    image: "/image/stair-race-3d.png",
     embed: "https://just-fall.github.io/o1/stair-race-3d/",
   },
   {
