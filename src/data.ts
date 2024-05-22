@@ -62,6 +62,12 @@ const data: DataTypes[] = [
     embed: "https://webglmath.github.io/drift-hunters/",
   },
   {
+    id: "monkey-mart",
+    title: "Monkey Mart",
+    image: "image/monkey-mart.png",
+    embed: "https://monkeymartgame.github.io/file/",
+  },
+  {
     id: "basketball-stars",
     title: "Basketball Stars",
     image: "/image/basketball-stars.png",
@@ -297,6 +303,12 @@ const data: DataTypes[] = [
     title: "Tiny Fishing",
     image: "image/tiny-fishing.png",
     embed: "https://webglmath.github.io/tiny-fishing/",
+  },
+  {
+    id: "ducklings-io",
+    title: "Ducklings.io",
+    image: "https://play-lh.googleusercontent.com/bAPhkkHwbkODYsZ1sn9BZybFL6uNWWFOskvXCdK86HiLsqBHWyO8Nt0NephFBY1lQkV9=s240",
+    embed: "https://www.coolmathgames.com/sites/default/files/public_games/49923/#451937697",
   },
 ];
 
