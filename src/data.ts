@@ -50,10 +50,28 @@ const data: DataTypes[] = [
     embed: "https://webglmath.github.io/2048/",
   },
   {
+    id: "superhot",
+    title: "Superhot",
+    image: "/image/superhot.png",
+    embed: "https://https://hypackel.github.io/fork/0/g/superhot/game/",
+  },
+  {
     id: "stickman-hook",
     title: "Stickman Hook",
     image: "/image/stickman-hook.png",
     embed: "https://webglmath.github.io/stickmanhook/",
+  },
+  {
+    id: "tiny-fishing",
+    title: "Tiny Fishing",
+    image: "image/tiny-fishing.png",
+    embed: "https://webglmath.github.io/tiny-fishing/",
+  },
+  {
+    id: "ducklings-io",
+    title: "Ducklings.io",
+    image: "https://play-lh.googleusercontent.com/bAPhkkHwbkODYsZ1sn9BZybFL6uNWWFOskvXCdK86HiLsqBHWyO8Nt0NephFBY1lQkV9=s240",
+    embed: "https://www.coolmathgames.com/sites/default/files/public_games/49923/#451937697",
   },
   {
     id: "drift-hunters",
@@ -72,6 +90,30 @@ const data: DataTypes[] = [
     title: "Basketball Stars",
     image: "/image/basketball-stars.png",
     embed: "https://webglmath.github.io/basketball-stars/",
+  },
+  {
+    id: "stair-race-3d",
+    title: "Stair Race 3D",
+    image: "/image/stair-rave-3d.png",
+    embed: "https://just-fall.github.io/o1/stair-race-3d/",
+  },
+  {
+    id: "crossy-road",
+    title: "Crossy Road",
+    image: "https://play-lh.googleusercontent.com/2yH_JCxn7D9FttXZViPhmvIEDfRhio5qdLdWJLxcIfh8PjIkVeBgt_Gj7q21dIRp97g=s240",
+    embed: "https://webglmath.github.io/crossy-road/",
+  },
+  {
+    id: "stack",
+    title: "Stack",
+    image: "https://play-lh.googleusercontent.com/WRlGQXa9Pav7YZPW-P5X8PAga0lF2T1BAzmasxB9qV_1_om5DgmMbxOFo2SK8ZN5K5k=s240",
+    embed: "https://webglmath.github.io/rainbow-stacker/",
+  },
+  {
+    id: "tunnel-rush",
+    title: "Tunnel Rush",
+    image: "image/tunnel-rush.png",
+    embed: "https://webglmath.github.io/tunnel-rush/",
   },
   {
     id: "run-3",
