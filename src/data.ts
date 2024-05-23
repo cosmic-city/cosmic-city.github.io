@@ -16,6 +16,13 @@ const data: DataTypes[] = [
     embed: "https://cdn-7hy.pages.dev/ovo-2",
   },
   {
+    id: "ovo-3",
+    title: "OvO 3",
+    image:
+      "image/ovo-3.png",
+    embed: "https://edumaths.github.io/s69/ovo-dimensions/",
+  },
+  {
     id: "1v1-lol",
     title: "1v1.LOL",
     image:
