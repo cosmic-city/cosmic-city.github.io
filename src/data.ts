@@ -30,13 +30,6 @@ const data: DataTypes[] = [
     embed: "https://webglmath.github.io/1v1-lol/",
   },
   {
-    id: "bullet-bros",
-    title: "Bullet Bros",
-    image:
-      "image/bullet-bros.png",
-    embed: "https://dont.feedmymonkey.com/uv/service/hvtrs8%2F-pmkk.aoo%2Fgn-g-bwlnev-%60rms",
-  },
-  {
     id: "justfall-lol",
     title: "JustFall.LOL",
     image:
