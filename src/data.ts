@@ -63,16 +63,46 @@ const data: DataTypes[] = [
     embed: "https://https://hypackel.github.io/fork/0/g/superhot/game/",
   },
   {
+    id: "stickmerge",
+    title: "Stickmerge",
+    image: "/image/stickmerge.png",
+    embed: "https://webglmath.github.io/stickmerge/",
+  },
+  {
+    id: "there-is-no-game",
+    title: "There Is No Game",
+    image: "/image/there-is-no-game.png",
+    embed: "https://webglmath.github.io/there-is-no-game/",
+  },
+  {
     id: "stickman-hook",
     title: "Stickman Hook",
     image: "/image/stickman-hook.png",
     embed: "https://webglmath.github.io/stickmanhook/",
   },
   {
+    id: "gimme-the-airpod",
+    title: "Gimme The Airpod",
+    image: "image/gimme-the-airpod.png",
+    embed: "https://hypackel.github.io/projects/gimme-the-airpod/index.html",
+  },
+  {
+    id: "learn-to-fly",
+    title: "Learn To Fly",
+    image: "image/learn-to-fly.png",
+    embed: "https://hypackel.github.io/projects/learntofly/index.html",
+  },
+  {
     id: "tiny-fishing",
     title: "Tiny Fishing",
     image: "image/tiny-fishing.png",
     embed: "https://webglmath.github.io/tiny-fishing/",
+  },
+  {
+    id: "n-gon",
+    title: "n-gon",
+    image: "image/n-gon.png",
+    embed: "https://landgreen.github.io/n-gon/",
   },
   {
     id: "ducklings-io",
