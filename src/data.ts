@@ -373,6 +373,12 @@ const data: DataTypes[] = [
     image: "/image/big-tower-tiny-square.png",
     embed: "https://adfree3kh0.github.io/projects/btts/index.html",
   },
+  {
+    id: "hexgl",
+    title: "HexGL",
+    image: "/image/hexgl.png",
+    embed: "https://adfree3kh0.github.io/projects/HexGL/index.html",
+  },
 ];
 
 export { data, type DataTypes };
