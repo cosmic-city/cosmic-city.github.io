@@ -44,6 +44,20 @@ const data: DataTypes[] = [
     embed: "https://webglmath.github.io/cluster-rush/",
   },
   {
+    id: "duck-life-3",
+    title: "Duck Life 3",
+    image:
+      "image/duck-life-3.png",
+    embed: "https://adfree3kh0.github.io/projects/ducklife3/index.html",
+  },
+  {
+    id: "duck-life-4",
+    title: "Duck Life 4",
+    image:
+      "image/duck-life-4.png",
+    embed: "https://adfree3kh0.github.io/projects/ducklife4/index.html",
+  },
+  {
     id: "bottle-flip-3d",
     title: "Bottle Flip 3D",
     image:
@@ -340,6 +354,24 @@ const data: DataTypes[] = [
     title: "Getaway Shootout",
     image: "/image/getaway-shootout.png",
     embed: "https://cdn-7hy.pages.dev/getaway-shootout/",
+  },
+  {
+    id: "rooftop-snipers",
+    title: "Rooftop Snipers",
+    image: "/image/rooftop-snipers.png",
+    embed: "https://adfree3kh0.github.io/projects/rooftop-snipers/index.html",
+  },
+  {
+    id: "game-inside-a-game",
+    title: "Game inside A Game",
+    image: "/image/game-inside-a-game.png",
+    embed: "https://adfree3kh0.github.io/projects/game-inside/index.html",
+  },
+  {
+    id: "big-tower-tiny-square",
+    title: "Big Tower Tiny Square",
+    image: "/image/big-tower-tiny-square.png",
+    embed: "https://adfree3kh0.github.io/projects/btts/index.html",
   },
 ];
 
