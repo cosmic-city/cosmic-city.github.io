@@ -177,7 +177,7 @@ const data: DataTypes[] = [
     title: "Run 3",
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR676dpglB6KxYu9xEzbivoOmZcVbDYPPv7x-qmnzyhrQ&s",
-    embed: "https://webglmath.github.io/run3/",
+    embed: "https://www.coolmathgames.com/0-run-3/play",
   },
   {
     id: "cookie-clicker",
@@ -372,6 +372,12 @@ const data: DataTypes[] = [
     title: "Big Tower Tiny Square",
     image: "/image/big-tower-tiny-square.png",
     embed: "https://adfree3kh0.github.io/projects/btts/index.html",
+  },
+  {
+    id: "big-flappy-tower-tiny-square",
+    title: "Big Flappy Tower Tiny Square",
+    image: "/image/big-tower-tiny-square.png",
+    embed: "https://coolmathgames.com/0-big-flappy-tower-tiny-square/play",
   },
   {
     id: "hexgl",

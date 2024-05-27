@@ -13,6 +13,11 @@ function Socials() {
           Subscribe
         </Button>
       </Link>
+      <Link to="https://discord.gg/kCsExjvS">
+        <Button look="discord" className="mt-2">
+          Join the Discord
+        </Button>
+      </Link>
     </>
   );
 }
