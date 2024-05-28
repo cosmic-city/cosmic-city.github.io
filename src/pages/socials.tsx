@@ -13,6 +13,9 @@ function Socials() {
           Subscribe
         </Button>
       </Link>
+      <div>
+        <p>Join the Discord to be the first to know about updates!</p>
+      </div>
       <Link to="https://discord.gg/kCsExjvS">
         <Button look="discord" className="mt-2">
           Join the Discord
