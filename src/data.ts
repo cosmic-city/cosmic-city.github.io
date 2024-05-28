@@ -110,7 +110,7 @@ const data: DataTypes[] = [
     id: "tiny-fishing",
     title: "Tiny Fishing",
     image: "image/tiny-fishing.png",
-    embed: "https://webglmath.github.io/tiny-fishing/",
+    embed: "https://www.coolmathgames.com/0-tiny-fishing/play",
   },
   {
     id: "n-gon",
@@ -376,7 +376,7 @@ const data: DataTypes[] = [
   {
     id: "big-flappy-tower-tiny-square",
     title: "Big Flappy Tower Tiny Square",
-    image: "/image/big-tower-tiny-square.png",
+    image: "/image/big-flappy-tower-tiny-square.png",
     embed: "https://coolmathgames.com/0-big-flappy-tower-tiny-square/play",
   },
   {

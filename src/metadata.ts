@@ -13,14 +13,8 @@ export const metadata = [
   { path: "game/cookie-clicker", title: "Cookie Clicker | Cosmic City" },
   { path: "game/slope", title: "Slope | Cosmic City" },
   { path: "game/slope-3", title: "Slope 3 | Cosmic City" },
-  {
-    path: "game/worlds-hardest-game-3",
-    title: "World's Hardest Game 3 | Cosmic City",
-  },
-  {
-    path: "game/friday-night-funkin",
-    title: "Friday Night Funkin' | Cosmic City",
-  },
+  { path: "game/worlds-hardest-game-3",title: "World's Hardest Game 3 | Cosmic City",},
+  { path: "game/friday-night-funkin", title: "Friday Night Funkin' | Cosmic City",},
   { path: "game/mr-bullet", title: "Mr Bullet | Cosmic City" },
   { path: "game/among-us", title: "Among Us | Cosmic City" },
   { path: "game/moto-x3m", title: "Moto X3M | Cosmic City" },
