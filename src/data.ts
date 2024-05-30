@@ -362,6 +362,18 @@ const data: DataTypes[] = [
     embed: "https://adfree3kh0.github.io/projects/rooftop-snipers/index.html",
   },
   {
+    id: "rooftop-snipers-2",
+    title: "Rooftop Snipers 2",
+    image: "/image/rooftop-snipers-2.png",
+    embed: "https://funnyshooter.github.io/g6/rooftop-snipers-2/",
+  },
+   {
+    id: "stickman-climb-2",
+    title: "Stickman Climb 2",
+    image: "/image/{game-id}.png",
+    embed: "https://funnyshooter.github.io/g6/rooftop-snipers-2/",
+  },
+  {
     id: "game-inside-a-game",
     title: "Game inside A Game",
     image: "/image/game-inside-a-game.png",
@@ -384,6 +396,12 @@ const data: DataTypes[] = [
     title: "HexGL",
     image: "/image/hexgl.png",
     embed: "https://adfree3kh0.github.io/projects/HexGL/index.html",
+  },
+  {
+    id: "doodle-jump",
+    title: "Doodle Jump",
+    image: "/image/{game.id}.png",
+    embed: "https://webglmath.github.io/doodle-jump/",
   },
 ];
 
