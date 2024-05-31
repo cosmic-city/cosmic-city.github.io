@@ -487,6 +487,66 @@ const data: DataTypes[] = [
     image: "/image/masked-forces.png",
     embed: "https://funnyshooter.github.io/g8/masked-forces/.",
   },
+  {
+    id: "minecraft",
+    title: "Minecraft",
+    image: "/image/minecraft.png",
+    embed: "https://c0msic.github.io/PrecisionClient-1.5.2/compiled/web/",
+  },
+  {
+    id: "backrooms",
+    title: "Backrooms",
+    image: "/image/backrooms.png",
+    embed: "https://adfree3kh0.github.io/projects/backrooms/index.html",
+  },
+  {
+    id: "big-red-button",
+    title: "Big Red Button",
+    image: "/image/big-red-button.png",
+    embed: "https://adfree3kh0.github.io/projects/bigredbutton/index.html",
+  },
+  {
+    id: "death-run-3d",
+    title: "Death Run 3D",
+    image: "/image/death-run-3d.png",
+    embed: "https://adfree3kh0.github.io/projects/death-run-3d/index.html",
+  },
+  {
+    id: "doge-miner",
+    title: "Doge Miner",
+    image: "/image/doge-miner.png",
+    embed: "https://adfree3kh0.github.io/projects/DogeMiner/index.html",
+  },
+  {
+    id: "snow-rider-3d",
+    title: "Snow Rider 3D",
+    image: "/image/snow-rider-3d.png",
+    embed: "https://tv2104.github.io/g8/snow-rider-3d/",
+  },
+  {
+    id: "circloo",
+    title: "circloO",
+    image: "/image/circloo.png",
+    embed: "https://adfree3kh0.github.io/projects/circlo/index.html",
+  },
+  {
+    id: "cell-machine",
+    title: "Cell Machine",
+    image: "/image/cell-machine.png",
+    embed: "https://adfree3kh0.github.io/projects/cell-machine/index.html",
+  },
+  {
+    id: "rocket-pult",
+    title: "Rocket Pult",
+    image: "/image/rocket-pult.png",
+    embed: "https://games-site.github.io/projects/rocketpult/index.html",
+  },
+  {
+    id: "snow-battle-io",
+    title: "SnowBattle.io",
+    image: "/image/snow-battle-io.png",
+    embed: "https://adfree3kh0.github.io/projects/snowbattle/index.html",
+  },
 ];
 
 export { data, type DataTypes };
