@@ -370,7 +370,7 @@ const data: DataTypes[] = [
    {
     id: "stickman-climb-2",
     title: "Stickman Climb 2",
-    image: "/image/{game-id}.png",
+    image: "/image/stickman-climb-2.png",
     embed: "https://funnyshooter.github.io/g6/rooftop-snipers-2/",
   },
   {
@@ -400,8 +400,92 @@ const data: DataTypes[] = [
   {
     id: "doodle-jump",
     title: "Doodle Jump",
-    image: "/image/{game.id}.png",
+    image: "/image/doodle-jump.png",
     embed: "https://webglmath.github.io/doodle-jump/",
+  },
+  {
+    id: "bullet-bros",
+    title: "Bullet Bros",
+    image: "/image/bullet-bros.png",
+    embed: "https://funnyshooter.github.io/g69/bullet-bros/",
+  },
+  {
+    id: "yohoho-io",
+    title: "YoHoHo.io",
+    image: "/image/yohoho-io.png",
+    embed: "https://funnyshooter.github.io/g17/yohoho-io/",
+  },
+  {
+    id: "burrito-bison",
+    title: "Burrito Bison",
+    image: "/image/burrito-bison.png",
+    embed: "https://funnyshooter.github.io/g7/burrito-bison/",
+  },
+  {
+    id: "sketchbook-04",
+    title: "Sketchbook 0.4",
+    image: "/image/sketchbook-04.png",
+    embed: "https://funnyshooter.github.io/g8/sketchbook-04/",
+  },
+  {
+    id: "g-switch-3",
+    title: "G Switch 3",
+    image: "/image/g-switch-3.png",
+    embed: "https://funnyshooter.github.io/g4/g-switch-3/",
+  },
+  {
+    id: "g-switch-4",
+    title: "G Switch 4",
+    image: "/image/g-switch-4.png",
+    embed: "https://funnyshooter.github.io/g17/g-switch-4/",
+  },
+  {
+    id: "flip-bros",
+    title: "Flip Bros",
+    image: "/image/flip-bros.png",
+    embed: "https://funnyshooter.github.io/g17/flip-bros/",
+  },
+  {
+    id: "space-thing",
+    title: "Space Thing",
+    image: "/image/space-thing.png",
+    embed: "https://funnyshooter.github.io/g69/space-thing/",
+  },
+  {
+    id: "flip-runner",
+    title: "Flip Runner",
+    image: "/image/flip-runner.png",
+    embed: "https://funnyshooter.github.io/g26/flip-runner/",
+  },
+  {
+    id: "digging-master",
+    title: "Digging Master",
+    image: "/image/digging-master.png",
+    embed: "https://funnyshooter.github.io/g69/digging-master/",
+  },
+  {
+    id: "gunspin",
+    title: "Gunspin",
+    image: "/image/gunspin.png",
+    embed: "https://funnyshooter.github.io/g/gunspin/.",
+  },
+  {
+    id: "stick-defenders",
+    title: "Stick Defenders",
+    image: "/image/stick-defenders.png",
+    embed: "https://funnyshooter.github.io/g6/stick-defenders/.",
+  },
+  {
+    id: "gobble",
+    title: "Gobble",
+    image: "/image/gobble.png",
+    embed: "https://funnyshooter.github.io/g4/gobble/.",
+  },
+  {
+    id: "masked-forces",
+    title: "Masked Forces",
+    image: "/image/masked-forces.png",
+    embed: "https://funnyshooter.github.io/g8/masked-forces/.",
   },
 ];
 
