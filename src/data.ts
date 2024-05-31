@@ -538,7 +538,7 @@ const data: DataTypes[] = [
   {
     id: "rocket-pult",
     title: "Rocket Pult",
-    image: "/image/rocket-pult.png",
+    image: "/image/rocketpult.png",
     embed: "https://games-site.github.io/projects/rocketpult/index.html",
   },
   {
