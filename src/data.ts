@@ -547,6 +547,18 @@ const data: DataTypes[] = [
     image: "/image/snow-battle-io.png",
     embed: "https://adfree3kh0.github.io/projects/snowbattle/index.html",
   },
+  {
+    id: "fruit-ninja",
+    title: "Fruit Ninja",
+    image: "image/fruit-ninja.png",
+    embed: "https://games-site.github.io/projects/fruit-ninja/index.html",
+  },
+  {
+    id: "temple-run-2",
+    title: "Temple Run 2",
+    image: "image/temple-run-2.png",
+    embed: "https://adfree3kh0.github.io/projects/temple-run-2/index.html",
+  },
 ];
 
 export { data, type DataTypes };
