@@ -107,6 +107,12 @@ const data: DataTypes[] = [
     embed: "https://hypackel.github.io/projects/learntofly/index.html",
   },
   {
+    id: "learn-to-fly-2",
+    title: "Learn To Fly 2",
+    image: "image/learn-to-fly-2.png",
+    embed: "https://www.coolmathgames.com/0-learn-to-fly-2/play",
+  },
+  {
     id: "tiny-fishing",
     title: "Tiny Fishing",
     image: "image/tiny-fishing.png",
@@ -250,7 +256,7 @@ const data: DataTypes[] = [
     id: "google-snake",
     title: "Google Snake",
     image:
-      "https://pixiapi.com/wp-content/uploads/2024/01/google-snake-favicon.jpg",
+      "image/snake.png",
     embed: "https://webglmath.github.io/snake/",
   },
   {
@@ -558,6 +564,24 @@ const data: DataTypes[] = [
     title: "Temple Run 2",
     image: "image/temple-run-2.png",
     embed: "https://adfree3kh0.github.io/projects/temple-run-2/index.html",
+  },
+  {
+    id: "uno",
+    title: "UNO",
+    image: "image/uno.png",
+    embed: "https://www.ilibrarian.net/games/four-colors/index.html",
+  },
+  {
+    id: "poor-eddie",
+    title: "Poor Eddie",
+    image: "image/poor-eddie.png",
+    embed: "https://hypackel.github.io/fork/0/g/pooreddie/game/",
+  },
+  {
+    id: "brain-test",
+    title: "Brain Test",
+    image: "image/brain-test.png",
+    embed: "https://rebemanae.github.io/brain-test-tricky-puzzles/",
   },
 ];
 
