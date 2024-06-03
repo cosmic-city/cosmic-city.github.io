@@ -583,6 +583,18 @@ const data: DataTypes[] = [
     image: "image/brain-test.png",
     embed: "https://rebemanae.github.io/brain-test-tricky-puzzles/",
   },
+  {
+    id: "slice-master",
+    title: "Slice Master",
+    image: "image/slice-master.png",
+    embed: "https://www.coolmathgames.com/0-slice-master/play",
+  },
+  {
+    id: "trace",
+    title: "Trace",
+    image: "image/trace.png",
+    embed: "https://www.coolmathgames.com/0-trace/play",
+  },
 ];
 
 export { data, type DataTypes };
