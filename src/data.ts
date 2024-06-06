@@ -74,7 +74,7 @@ const data: DataTypes[] = [
     id: "superhot",
     title: "Superhot",
     image: "/image/superhot.png",
-    embed: "https://https://hypackel.github.io/fork/0/g/superhot/game/",
+    embed: "https://hypackel.github.io/fork/0/g/superhot/game/",
   },
   {
     id: "stickmerge",

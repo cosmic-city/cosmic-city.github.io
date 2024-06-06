@@ -16,7 +16,7 @@ function Socials() {
       <div>
         <p>Join the Discord to be the first to know about updates!</p>
       </div>
-      <Link to="https://discord.gg/kCsExjvS">
+      <Link to="https://discord.gg/5r3bMt5JeY">
         <Button look="discord" className="mt-2">
           Join the Discord
         </Button>
