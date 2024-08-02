@@ -11,12 +11,12 @@ function Randomizer() {
       <>your cooked.</>,
       <>Is that a teacher behind you?</>,
       <>Erm, What the sigma?</>,
-      <>Hi Luca and Izzy</>,
-      <>Where is Slovakia? respond in issues</>,
+      <>WE'RE BACK FROM BREAK BABY!!</>,
       <>
         This UI is very similar to something...{" "}
         <Emoji src="/image/emojis/sus.png" />
       </>,
+      <>Mr.Bombastic Bombofantastic.</>,
       <>
         never gona give u up <Emoji src="/image/emojis/rickroll.gif" />
       </>,
