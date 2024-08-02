@@ -37,6 +37,13 @@ const data: DataTypes[] = [
     embed: "https://just-fall.github.io/file/",
   },
   {
+    id: "plants-vs-zombies",
+    title: "Plants VS Zombies",
+    image:
+      "image/plants-vs-zombies.png",
+    embed: "https://plantsvszombiesgame.github.io/file/",
+  },
+  {
     id: "cluster-rush",
     title: "Cluster Rush",
     image:
