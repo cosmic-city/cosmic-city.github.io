@@ -14,7 +14,7 @@ export default function Cursor() {
   }, []);
   return (
     <span
-      className={`h-2 w-2 bg-white absolute z-10 rounded-full left-[${mouse.x}] top-[${mouse.y}]`}
+      className={`h-2 w-2 bg-white absolute z-10 rounded-full ${mouse ? "left-[${mouse.x}] top-[${mouse.y}]" : ""}`}
     />
   );
 }
