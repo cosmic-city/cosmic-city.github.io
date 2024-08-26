@@ -3,6 +3,7 @@ import { BrowserRouter, useRoutes } from "react-router-dom";
 import { createRoot } from "react-dom/client";
 import { StrictMode, Suspense } from "react";
 import Navbar from "./components/navbar";
+import Cursor from "./components/cursor";
 import { metadata } from "./metadata";
 import routes from "~react-pages";
 import { ring } from "ldrs";
