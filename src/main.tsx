@@ -32,6 +32,7 @@ function App() {
         </div>
       }
     >
+      <Cursor />
       {useRoutes(routes)}
     </Suspense>
   );
