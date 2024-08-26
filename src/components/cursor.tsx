@@ -4,7 +4,7 @@ export default function Cursor() {
   const [mouse, setMouse] = useState<{ x: string; y: string } | null>(null);
 
   useEffect(() => {
-    const position = (e) => {
+    const update = (e: MouseEvent) => {
       setMouse({ x: `${e.clientX}px`, y: `${e.clientY}px` });
     };
     window.addEventListener("mousemove", update);
